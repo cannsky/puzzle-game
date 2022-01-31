@@ -8,7 +8,6 @@ import javafx.util.Duration;
 public class AnimatedCircle extends Main {
 
     /*
-        Student Information: 150118014 Can Gök, 150118006 Talha Osman Saraç,
         Integrated Development Environment: Intellij Community Edition,
         Some of the pictures are from https://pngfuel.com
 
